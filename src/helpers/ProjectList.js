@@ -47,6 +47,6 @@ export const ProjectList = [
     image: Proj6,
     skills: "PHP, CodeIgniter, MySQL, JavaScript, HTML, CSS, Bootstrap",
     comentario:"Projeto em desenvolvimento pela UFRJ em parceria com a defesa civil do estado do Rio de Janeiro",
-    link:"https://projetos.macae.ufrj.br:8083/gpicm/telemetria-web/-/tree/Dashboard_Lucas",
+    link:"",
   },
 ];
